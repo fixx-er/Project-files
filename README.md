@@ -1,6 +1,6 @@
 # Project-files
 I am so new here at Github, I am trying to learn all the protocols. Projects are: Audiocast, Winter-Summer Electric devices on/off, Bathroom Auto humidity
-<h1 align="center">Hi 👋, I'm Steve</h1>
+<h1 align="center">Hi 👋, I'm fixxser</h1>
 <h3 align="center">A passionate Nerd for automation</h3>
 
 - 🔭 I’m currently working on [Home Assistant, Node-Red](https://github.com/fixx-er/Project-files)
