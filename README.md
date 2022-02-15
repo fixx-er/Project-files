@@ -19,6 +19,8 @@ I am so new here at Github, I am trying to learn all the protocols. Projects are
 
 <h3 align="left">Support:</h3>
 <p>paypal.me/SJanke</p>
+
+(/paypal-qrcode.png)
 [paypal-qrcode](https://user-images.githubusercontent.com/38498263/154122668-35152b90-10c3-4a20-ac57-b69c8ba2ec3a.png)
 
   <br><br>
