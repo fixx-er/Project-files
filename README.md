@@ -18,4 +18,4 @@ I am so new here at Github, I am trying to learn all the protocols. Projects are
 <p align="left"> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/fixx-er"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fixx-er" /></a></p><br><br>
+<p><a href="https://buymeacoffee.com/1BLrgC3yW6"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fixx-er" /></a></p><br><br>
