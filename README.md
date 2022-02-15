@@ -7,7 +7,7 @@ I am so new here at Github, I am trying to learn all the protocols. Projects are
 
 - 🌱 I’m currently learning **Home Assitant, Node-Red, JSON**
 
-- 🤝 I’m looking for help with **Audiocast**
+- 🤝 I’m looking for help with (empty)
 
 - 👨‍💻 All of my projects are available at [https://github.com/fixx-er/Project-files](https://github.com/fixx-er/Project-files)
 
