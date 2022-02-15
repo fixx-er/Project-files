@@ -1,5 +1,5 @@
 # Project-files
-I am so new here at Github, I am trying to learn all the protocols. Projects are: Audiocast, Winter-Summer Electric devices on/off, Bathroom Auto humidity
+I am so new here at Github, I am trying to learn all the protocols. Projects are: Winter-Summer Electric devices on/off, Bathroom Auto humidity/environment
 <h1 align="center">Hi 👋, I'm fixxser</h1>
 <h3 align="center">A passionate Nerd for automation</h3>
 
