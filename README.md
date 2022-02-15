@@ -20,6 +20,5 @@ I am so new here at Github, I am trying to learn all the protocols. Projects are
 <h3 align="left">Support me if you wish:</h3>
 <p>paypal.me/SJanke</p>
 
-![paypal-qrcode image](https://user-images.githubusercontent.com/38498263/154122668-35152b90-10c3-4a20-ac57-b69c8ba2ec3a.png)
-  <br><br>
-
+![paypal-qrcode image 2)](https://user-images.githubusercontent.com/38498263/154129298-c088e2fa-4212-4eac-ab5b-34f861c3c1e9.png)
+<br><br>
