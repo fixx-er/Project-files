@@ -11,7 +11,7 @@ I am so new here at Github, I am trying to learn all the protocols. Projects are
 
 - 👨‍💻 All of my projects are available at [https://github.com/fixx-er/Project-files](https://github.com/fixx-er/Project-files)
 
-- 📫 How to reach me **steve_333@msn.com**
+- 📫 How to reach me **"steve" underscore "333" at "msn.com"**
 
 
 <h3 align="left">Languages and Tools:</h3>
