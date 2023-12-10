@@ -20,5 +20,5 @@ I am so new here at Github, I am trying to learn all the protocols. Projects are
 <h3 align="left">Support me if you wish:</h3>
 <p>https://www.paypal.com/donate/?business=JTKR7A2TT2RGQ&no_recurring=0&currency_code=USD</p>
 
-![paypal-qrcode image 2)](https://user-images.githubusercontent.com/38498263/154129298-c088e2fa-4212-4eac-ab5b-34f861c3c1e9.png)
+![paypal5](https://github.com/fixx-er/Project-files/assets/38498263/30624188-1b3f-4182-9a6c-87b60590ce25)
 <br><br>
